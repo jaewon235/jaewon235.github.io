@@ -41,8 +41,8 @@ Completed core science and engineering courses with academic excellence.
 
 ## 🏆 Awards & Honors
 * Bronze Prize, The 43rd University Students Mathematics Competition (2025)
-    - Hosted by the Korean Mathematical Society (KMS), Category 2
-    - Awarded to the top 25% of participants nationwide.
+  * Hosted by the Korean Mathematical Society (KMS), Category 2
+  * Awarded to the top 25% of participants nationwide.
 ---
 
 ## 📧 Contact
