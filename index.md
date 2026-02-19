@@ -18,7 +18,8 @@ Junior at Korea University | Life Sciences & Physics focus
 
 ### 📐 Mathematics & Physics
 * **General Physics I, II & Lab** (A+)
-* **Analysis I (Calculus)** (A+)
+* **Calculus II ** (A+)
+* **Analysis I ** (A+)
 * **Differential Equations & Computer Experiment** (A+)
 * **Statistical Mathematics** (A+)
 
