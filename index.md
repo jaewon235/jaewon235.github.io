@@ -26,10 +26,10 @@ Completed core science and engineering courses with academic excellence.
 * **Statistical Mathematics** (A+)
 
 ### 📖 Current Coursework (In progress... Spring 2026)
-* LINEAR ALGEBRA I WITH LAB(English)
-* TOPICS IN APPLIED MATHEMATICS(English)
+* **LINEAR ALGEBRA I WITH LAB(English)**
+* **TOPICS IN APPLIED MATHEMATICS(English)**
 
-* BIOMEDICAL DATA SCIENCE(English)
+* **BIOMEDICAL DATA SCIENCE(English)**
 * ANALYTICAL CHEMISTRY I
 
 * HEALTH & MOVEMENT ACROSS HUMAN LIFESPAN
