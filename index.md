@@ -48,6 +48,8 @@ Completed core science and engineering courses with academic excellence.
 ## 🤝 Activities & Volunteer
 * **Silver Lining (Service Club)**, Volunteer Educator (Jan 2026 – Present)
   - Providing digital literacy training to senior citizens, focusing on smartphone utilization and digital accessibility.
+* **Integrated Health and Care Organization (IHCO)**, Headquarters Member (Feb 2026 – Present)
+  - Serving as a central administrator at the Headquarters, planning and coordinating nationwide healthcare volunteer projects.
 * **Kyung Hee University Medical Center**, Patient Guide & Companion (60 hrs)
   - Assisted patients with hospital navigation and provided emotional support through active listening.
 * **Korean Red Cross**, Blood Donation Service (40 hrs)
