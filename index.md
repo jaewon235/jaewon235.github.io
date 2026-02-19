@@ -44,6 +44,25 @@ Completed core science and engineering courses with academic excellence.
   * Hosted by the Korean Mathematical Society (KMS), Category 2
   * Awarded to the top 25% of participants nationwide.
 
+
+## 🤝 Activities & Volunteer
+* **Silver Lining (Service Club)**, Volunteer Educator (Jan 2026 – Present)
+  - Providing digital literacy training to senior citizens, focusing on smartphone utilization and digital accessibility.
+* **Kyung Hee University Medical Center**, Patient Guide & Companion (60 hrs)
+  - Assisted patients with hospital navigation and provided emotional support through active listening.
+* **Korean Red Cross**, Blood Donation Service (40 hrs)
+  - Actively participated in life-saving blood donation campaigns to support local healthcare.
+
+
+## 🌐 Languages
+* **Korean**: Native
+* **English**: Professional Working Proficiency
+  - **TOEFL iBT**: 101 / 120
+  - **TOEIC**: 935 / 990
+  - Experienced in taking diverse STEM courses in English (EMI)
+
+---
+
 ## 📧 Contact
 * **GitHub**: [github.com/jaewon235](https://github.com/jaewon235)
 * **Email**: [wise0114@korea.ac.kr] or [wise0114@naver.com]
