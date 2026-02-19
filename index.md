@@ -26,17 +26,17 @@ Completed core science and engineering courses with academic excellence.
 * **Statistical Mathematics** (A+)
 
 ### 📖 Current Coursework (In progress... Spring 2026)
-LINEAR ALGEBRA I WITH LAB(English)
-TOPICS IN APPLIED MATHEMATICS(English)
+* LINEAR ALGEBRA I WITH LAB(English)
+* TOPICS IN APPLIED MATHEMATICS(English)
 
-BIOMEDICAL DATA SCIENCE(English)
-ANALYTICAL CHEMISTRY I
+* BIOMEDICAL DATA SCIENCE(English)
+* ANALYTICAL CHEMISTRY I
 
-HEALTH & MOVEMENT ACROSS HUMAN LIFESPAN
-HUMAN ANATOMY WITH LABORATORY
-BIOCHEMISTRY II (English)
+* HEALTH & MOVEMENT ACROSS HUMAN LIFESPAN
+* HUMAN ANATOMY WITH LABORATORY
+* BIOCHEMISTRY II (English)
 
-SOCCER
+* SOCCER
 
 
 ## 🏆 Awards & Honors
@@ -47,5 +47,5 @@ SOCCER
 
 ## 📧 Contact
 * **GitHub**: [github.com/jaewon235](https://github.com/jaewon235)
-* **Email**: [wise0114@korea.ac.kr] or [wises0114@naver.com]
+* **Email**: [wise0114@korea.ac.kr] or [wise0114@naver.com]
 * **Instagram**: @dlw0dnjs
