@@ -43,7 +43,7 @@ Completed core science and engineering courses with academic excellence.
 
 
 ## 🤝 Activities & Volunteer
-* **Kyung Hee University Medical Center**, Patient Guide & Companion (60 hrs)
+* **Kyung Hee University Medical Center**, Patient Guide & Companion (75 hrs)
   - Assisted patients with hospital navigation and provided emotional support through active listening.
 * **Korean Red Cross**, Blood Donation Service (40 hrs)
   - Actively participated in life-saving blood donation campaigns to support local healthcare.
