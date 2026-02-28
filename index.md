@@ -1,5 +1,5 @@
 # Jay Lee (Lee Jaewon)
-**Junior** at Korea University | **Applied Math, Bioinformatics** focus
+**Junior** at Korea University | **Applied Math** focus
 
 ---
 
@@ -12,7 +12,7 @@
 Completed core science and engineering courses with academic excellence.
 
 ### 🧪 Science & Life Sciences
-* **General Biology and Practice I & Lab** (A+)
+* **General Biology I & Lab** (A+)
 * **General Chemistry I & Lab** (A+)
 * **Seminar on the Latest Trends in Life Sciences** (A+)
 * **Medical Terminology** (A+)
@@ -28,10 +28,7 @@ Completed core science and engineering courses with academic excellence.
 ### 📖 Current Coursework (In progress... Spring 2026)
 * **LINEAR ALGEBRA I WITH LAB(English)**
 * **TOPICS IN APPLIED MATHEMATICS(English)**
-
-* **BIOMEDICAL DATA SCIENCE(English)**
 * ANALYTICAL CHEMISTRY I
-
 * HEALTH & MOVEMENT ACROSS HUMAN LIFESPAN
 * HUMAN ANATOMY WITH LABORATORY
 * BIOCHEMISTRY II (English)
@@ -46,10 +43,6 @@ Completed core science and engineering courses with academic excellence.
 
 
 ## 🤝 Activities & Volunteer
-* **Silver Lining (Service Club)**, Volunteer Educator (Jan 2026 – Present)
-  - Providing digital literacy training to senior citizens, focusing on smartphone utilization and digital accessibility.
-* **Integrated Health and Care Organization (IHCO)**, Headquarters Member (Feb 2026 – Present)
-  - Serving as a central administrator at the Headquarters, planning and coordinating nationwide healthcare volunteer projects.
 * **Kyung Hee University Medical Center**, Patient Guide & Companion (60 hrs)
   - Assisted patients with hospital navigation and provided emotional support through active listening.
 * **Korean Red Cross**, Blood Donation Service (40 hrs)
@@ -68,4 +61,3 @@ Completed core science and engineering courses with academic excellence.
 ## 📧 Contact
 * **GitHub**: [github.com/jaewon235](https://github.com/jaewon235)
 * **Email**: [wise0114@korea.ac.kr] or [wise0114@naver.com]
-* **Instagram**: @dlw0dnjs
